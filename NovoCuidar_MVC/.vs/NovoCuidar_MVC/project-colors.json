@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cbe032ec-a3e2-4027-b148-672c17a3a5ca": {
+      "ProjectGuid": "cbe032ec-a3e2-4027-b148-672c17a3a5ca",
+      "DisplayName": "NovoCuidar_MVC",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
