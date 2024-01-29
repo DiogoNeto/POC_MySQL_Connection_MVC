@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NovoCuidar_MVC.props" />
+</Project>
